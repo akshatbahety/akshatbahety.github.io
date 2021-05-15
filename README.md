@@ -14,9 +14,9 @@
 - Google Summer of Code 2018
 
 ## Social Media Links
-[YouTube] (https://www.youtube.com/akshatbahety)
-[LinkedIn] (https://www.linkedin.com/in/akshatbahety/)
-[GitHub] (https://github.com/akshatbahety)
+- 	[YouTube](https://www.youtube.com/akshatbahety)
+- 	[LinkedIn](https://www.linkedin.com/in/akshatbahety/)
+-   [GitHub](https://github.com/akshatbahety)
 
 
 ## What am I doing currently?
